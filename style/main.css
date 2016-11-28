@@ -15,7 +15,7 @@ header .navbar-header {position:absolute!important;background-color:#ff6826!impo
 .navbar-default {background: #ff6826;border:0;border-radius:0;}
 .icon-bar{background-color:#FFF!important;width:27px!important;height:4px!important;border-radius:0!important;}
 .navbar-nav>li>a {padding-top:15px;padding-bottom:10px!important;}
-.nav>li>a{position:relative;display:block;padding:0 0!important;font-size:20px}
+.nav>li>a{position:relative;display:block;padding:0 0!important;font-size:18px}
 .nav>li:first-child{padding-left:10px!important;}
 .nav>li{padding:23px 30px 10px 50px!important;font-family:Myriad Pro;font-weight:normal;font-style:normal;font-size:18px;line-height:24px}
 .nav>li:nth-child(2){padding-left:0!important;}
